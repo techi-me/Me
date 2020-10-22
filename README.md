@@ -1,6 +1,6 @@
 # Python-Django
 Learn-Unlearn-Relearn Django
-1. Python Revision 
+1. Python Revision                                                                                         
   1.1 Python: Introduction
   1.2: Basics of Python
   1.3: Data Types
