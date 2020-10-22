@@ -10,6 +10,6 @@ Learn-Unlearn-Relearn Django
   1.7: Data Structure in Python                                                                                                            
   1.8: Object Oriented Programming in Python                                                                    
   1.9: Working with Files & Modules                                                                                                                                         
-2.Django                                        
+2. Django                                        
   2.1: Django 3 Framework Introduction                                                
   2.2: Django 3 Fundamentals                                          
